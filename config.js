@@ -7,14 +7,14 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇963936337142』*"
+global.botnumber = "963936337142"
 global.confirmCode = ""
 
-global.owner = [['963936337142', 'MIKEY - BOT ❦︎', true],
+global.owner = [['963995542357', 'MATUOSツ ❦︎', true],
 ];
 
-global.suittag = ['963936337142'];
-global.prems = ['963936337142'];
+global.suittag = ['963995542357'];
+global.prems = ['963995542357'];
 
 global.packname = '☾︎ MIKEY - BOT ☽︎';
 global.author = '✩MIKEY - BOT☆';
@@ -51,7 +51,7 @@ global.mysticbot = 'atom.bio/mego51_51';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '963936337142';
+global.nomorown = '963995542357';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
